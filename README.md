@@ -3,6 +3,10 @@
 I'm a cybersecurity/mathematics student based in seattle. I'm passionate about web applications and security. 
 I enjoy all things security, application development, & devops :>
 
+Teaching myself comp programming :0 
+
+![Codewars](https://www.codewars.com/users/undefined0x12/badges/large)
+
 Technologies I've worked with 
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
