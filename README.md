@@ -1,16 +1,12 @@
-### Hi there 👋
+# Brian
 
-<!--
-**briiaan/briiaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a cybersecurity/mathematics student based in seattle. I'm passionate about web applications and security. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- **Programming Languages:** Rust, Python, JavaScript, Bash
+- **Web Technologies:** HTML, CSS
+- **Databases:** SQL
+- **Frameworks/Libraries:** React, MongooseJS, Chaijs, Mochajs, AstroJS, and Django.
+- **Tools/Technologies:** NGINX, MySQL, and MSSQL.
+- **Other Skills:** Nmap.
