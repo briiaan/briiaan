@@ -5,8 +5,6 @@ I enjoy all things security, application development, & devops :>
 
 quant tradr ;0
 
-Teaching myself competitive programming :0 
-
 ![Codewars](https://www.codewars.com/users/undefined0x12/badges/large)
 
 Technologies I've worked with 
