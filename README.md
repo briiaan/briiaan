@@ -1,8 +1,5 @@
 
 # Heys
-I'm a cybersecurity/mathematics student based in seattle. I'm passionate about web applications and security. 
-I enjoy all things security, application development, & devops :>
-
 ![Codewars](https://www.codewars.com/users/undefined0x12/badges/large)
 
 Technologies I've worked with 
